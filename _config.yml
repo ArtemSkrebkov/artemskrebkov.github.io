@@ -1,3 +1,9 @@
 remote_theme: thelehhman/plainwhite-jekyll
-name: Artemy Skrebkov, deep learning software engineer
-markdown: kramdown
+plainwhite:
+  name: Artemy Skrebkov
+  tagline: Developer
+  date_format: "%b %-d, %Y"
+
+  social_links:
+    github: ArtemSkrebkov
+    linkedIn: in/artemy-skrebkov-a63227180
